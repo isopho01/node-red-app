@@ -20,5 +20,11 @@
     },
     "engines": {
         "node": "14.x"
+    },
+    "node-red": {
+        "settings": {
+            "flowFile": "defaults/flow.json",
+            "credentialsFile": "defaults/flow_cred.json"
+        }
     }
 }
